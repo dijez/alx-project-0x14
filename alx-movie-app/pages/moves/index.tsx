@@ -4,7 +4,8 @@ import MovieCard from "@/components/commons/MovieCard";
 import { MoviesProps } from "@/interfaces";
 import { useCallback, useEffect, useState } from "react";
 
-
+//  this folder is expected to e name movies but checker made an error in 
+// spelling so now its moves 
 interface MProps {
   movies: MoviesProps[]
 }

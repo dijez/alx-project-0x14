@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
-import { ComponentProps } from '@/interface'
+import { ComponentProps } from '@/interfaces'
 
 
 const Layout: React.FC<ComponentProps> = ({children}) => {
